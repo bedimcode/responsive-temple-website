@@ -1,0 +1,20 @@
+========== HEADER ==========
+.nav__logo
+Temple
+
+.nav__link
+Home - Location - About - Explore - Contact
+
+
+========== HOME ==========
+.home__title
+Welcome To <br> Temple
+
+.home__description
+The temple is an attractive tourist place 
+where you could visit and connect to the 
+pure land of the environment, you will 
+experience peace and harmony.
+
+.home__button
+Explore Place
